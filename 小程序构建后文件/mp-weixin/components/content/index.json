@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "content-bottom": "/components/content/ContentBottom",
+    "content-file": "/components/content/ContentFile"
+  }
+}

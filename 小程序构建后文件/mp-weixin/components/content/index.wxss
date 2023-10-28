@@ -1,0 +1,41 @@
+
+.box--flex {
+	display: flex;
+}
+.content-box-top {
+	height: 50px;
+}
+.content-feed-ogText {
+	color: #333;
+	font-size: 14px;
+	line-height: 24px;
+}
+.content-footer {
+	height: 40px;
+	line-height: 40px;
+	margin: 0 15px;
+}
+.box--flex .nickName {
+	font-size: 15px;
+	font-weight: bold;
+}
+.content-box-time {
+	font-size: 12px;
+	color: darkgrey;
+}
+.content-category-tag {
+	margin-right: 4px;
+	font-size: 12px;
+	display: inline-block;
+	min-width: 26px;
+	height: 13px;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	line-height: 13px;
+	color: #939393;
+	text-align: center;
+}
+.content-box-avatar {
+	margin-right: 10px;
+}
+

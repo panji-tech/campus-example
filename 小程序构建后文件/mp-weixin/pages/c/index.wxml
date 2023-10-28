@@ -1,0 +1,1 @@
+<view class="container"><u-loading-page vue-id="029c2be9-1" loading="{{loading}}" bind:__l="__l"></u-loading-page><block wx:if="{{contentObj!=null}}"><content vue-id="029c2be9-2" contentObj="{{contentObj}}" loveContentIds="{{loveContentIds}}" bind:__l="__l"></content></block></view>

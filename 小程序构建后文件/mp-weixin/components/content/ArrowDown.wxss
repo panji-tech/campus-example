@@ -1,0 +1,10 @@
+
+.popup-span {
+	color: #939393;
+	font-size: 12px;
+}
+.popup-icon {
+	text-align: center;
+	margin-right: 10px;
+}
+

@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/index/tab",
+    "pages/index/index",
+    "pages/index/add",
+    "pages/me/me",
+    "pages/login/accountLogin",
+    "pages/login/bind",
+    "pages/login/bind-register",
+    "pages/auth/wxamp",
+    "pages/auth/wxampSuccess",
+    "pages/auth/wxampError",
+    "pages/c/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {},
+  "usingComponents": {}
+}

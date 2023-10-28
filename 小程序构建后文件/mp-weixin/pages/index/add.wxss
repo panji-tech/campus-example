@@ -1,0 +1,25 @@
+
+.scrollContainer {
+	white-space: nowrap;
+	width: 100%;
+}
+.scroll-view-item_H {
+	display: inline-block;
+}
+.publish-content {
+	padding: 20px;
+	height: 100vh;
+}
+.category-tag {
+	margin-right: 10px;
+	font-size: 14px;
+	display: inline-block;
+	min-width: 26px;
+	border: 1px solid #ccc;
+	border-radius: 40px/50px;
+	line-height: 13px;
+	color: #939393;
+	text-align: center;
+	padding: 2px 5px;
+}
+

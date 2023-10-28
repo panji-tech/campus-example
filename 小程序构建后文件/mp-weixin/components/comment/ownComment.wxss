@@ -1,0 +1,33 @@
+
+.row {
+	display: flex;
+	align-content: center;
+	justify-content: space-between;
+}
+.left {
+	/* margin-left: 10px; */
+}
+.left .title {
+	font-size: 18px;
+	color: grey;
+}
+.left .coContent {
+	padding-top: 10px;
+	font-size: 16px;
+}
+.right {
+	/* margin-right: 10px; */
+	width: 100px;
+	background-color: #DCDCDC;
+	border-radius: 10px;
+}
+.right .content-text {
+	padding: 20px;
+	width: 70px;
+	line-height: 25px;
+}
+.time {
+	font-size: 12px;
+	/* margin-left: 10px; */
+}
+

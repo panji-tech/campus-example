@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-subsection": "/uni_modules/uview-ui/components/u-subsection/u-subsection",
+    "scroll-list": "/components/scroll-list/scroll-list",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "content": "/components/content/index",
+    "own-comment": "/components/comment/ownComment",
+    "arrow-down": "/components/content/ArrowDown"
+  }
+}

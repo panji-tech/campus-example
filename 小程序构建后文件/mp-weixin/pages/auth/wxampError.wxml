@@ -1,0 +1,1 @@
+<view class="flex-center"><u-icon class="icon-image" vue-id="f22e80fa-1" size="80" color="red" name="close" bind:__l="__l"></u-icon><view style="margin-top:20px;" class="_h2">登录失败</view><view style="margin-top:20px;" class="_p">请重新扫码登录</view><view style="margin-top:20px;font-size:10px;" class="_p">温馨提示：点击右上角关闭按钮可关闭本页面</view></view>
