@@ -224,7 +224,7 @@ public class WeiXinAuthServiceImpl implements WeiXinAuthService {
         JSONObject jsonObject = JSONObject.parseObject(WeiXinApi.wxampLogin(code));
         String openid = jsonObject.getString("openid");
         if (StringUtils.isEmpty(openid)) {
-            throw new ServiceException("openid异常");
+            throw new ServiceException("openid异常:"+jsonObject.toJSONString());
         }
         return openid;
     }
